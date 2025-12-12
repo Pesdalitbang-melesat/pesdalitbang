@@ -1,0 +1,5 @@
+{
+  "name": "SuratAI - Smart Letter Management",
+  "description": "Aplikasi manajemen surat masuk dan keluar cerdas yang menggunakan AI untuk ekstraksi data otomatis dan peringkasan isi surat.",
+  "requestFramePermissions": []
+}
